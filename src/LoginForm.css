@@ -1,0 +1,29 @@
+.LoginForm {
+    text-align: left;
+    font-size: medium;
+}
+
+form {
+    display: block;
+}
+
+label {
+    display: flex;
+    padding-bottom: 8px;
+    align-items: center;
+}
+
+label span {
+    padding-right: 8px;
+    flex: 1 1 120px;
+    font-size: 16px;
+}
+
+label input {
+    flex: 1 1 100%;
+    font-size: 12px;
+}
+
+input {
+    font-size: 16px;
+}
